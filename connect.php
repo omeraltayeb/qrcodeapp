@@ -1,7 +1,7 @@
 <?php
-$dsn = "mysql:host=pdb1035.awardspace.net;dbname=4500097_qrcodeapp";
-$user = "4500097_qrcodeapp";
-$pass = "P[{(V:pr28JzeCH0";
+$dsn = "";
+$user = "";
+$pass = "";
 $option = array(
    PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES UTF8"
 );
